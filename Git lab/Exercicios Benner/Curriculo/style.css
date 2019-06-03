@@ -17,20 +17,25 @@
     background-size: 150px;
     width: 70px;
     height: 68px;
-    border: solid 2px;                   ///bordaa///
-}
+    }
 {
     color: black;
 }
- 
 
 
+#Endereco h4 {
+    font-size: 15px;
+    font-family: Arial;
+    text-align: center;
+    margin: 25px;
+}
 
 h2 {
     font-size: 20px;
     font-family: Times New Roman;
     text-align: center;
-    margin: 10px;
+    margin: 25px;
+    color:red;
 }
 
 h3 {
@@ -39,7 +44,7 @@ h3 {
     color: azure;
     font-family: Times New Roman;
     text-align: center;
-    margin: 10px;
+    margin: 25px;
 }
 
 
@@ -48,7 +53,7 @@ h5 {
     color: black;
     font-family: Times New Roman;
     text-align: center;
-    margin: 10px;
+    margin: 25px;
 }
 
 h4 {
@@ -61,16 +66,21 @@ h6 {
     font-family: Times New Roman;
     margin: 8px;
     margin-left: 100px;
-    margin: 10px;
+    margin: 20px;
 }
 
 
 
 
 footer {
+    position:fixed;
     background-color: slategray;
     color: azure;
     padding: 20px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
 }
 
 img {
@@ -80,5 +90,5 @@ img {
     font-size: 15px;
     font-family: Arial;
     text-align: center;
-    margin: 10px ;
+    margin: 20px ;
 }
