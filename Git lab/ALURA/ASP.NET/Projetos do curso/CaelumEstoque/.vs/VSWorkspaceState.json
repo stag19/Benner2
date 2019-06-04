@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CaelumEstoque",
+    "\\CaelumEstoque\\Controllers",
+    "\\CaelumEstoque\\DAO",
+    "\\CaelumEstoque\\Models"
+  ],
+  "SelectedNode": "\\CaelumEstoque\\DAO\\CategoriasDAO.cs",
+  "PreviewInSolutionExplorer": false
+}
