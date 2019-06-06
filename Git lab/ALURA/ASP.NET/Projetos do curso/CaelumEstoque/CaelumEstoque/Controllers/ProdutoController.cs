@@ -32,19 +32,20 @@ namespace CaelumEstoque.Controllers
         [HttpPost]
         public ActionResult Adiciona(Produto produto)
         {
-            intidDaInformatica = 1;
-            if(produto.CategoriaId.Equals(idDaInformatica) && produto.Preco <100)
+            int idDaInformatica = 1;
+            if (produto.CategoriaId.Equals(idDaInformatica) && produto.Preco < 100)
             {
                 ModelState.AddModelError("produto.Invalido", "Informatica com preco abaixo de 100 reais");
             }
             if (ModelState.IsValid)
-                {
+            {
                 ProdutosDAO dao = new ProdutosDAO();
                 dao.Adiciona(produto);
 
                 return RedirectToAction("Index", "Produto");
-                }
-            else{
+            }
+            else
+            {
                 ViewBag.Produto = produto;
                 CategoriasDAO categoiasDAO = new CategoriasDAO();
                 ViewBag.Categorias = categoiasDAO.Lista();
