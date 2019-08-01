@@ -1,0 +1,64 @@
+﻿@model ProjetoAr3.Models.serviços
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<head>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+
+
+<h2>Deletar Serviço</h2>
+
+<div>
+    <h4>serviços</h4>
+    <hr />
+    <div>
+
+        <hr />
+        <table>
+            <tr>
+                <th>Serviço:</th>
+                <td>@Html.DisplayFor(model => model.Serviço)</td>
+
+            </tr>
+
+            <tr>
+                <th>Preço:</th>
+                <td> @Html.DisplayFor(model => model.Preço)</td>
+
+        </table>
+    </div>
+
+    <hr />
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Deletar" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar para a lista de cadastros", "Index")
+        </div>
+    }
+</div>
+
+
+
+

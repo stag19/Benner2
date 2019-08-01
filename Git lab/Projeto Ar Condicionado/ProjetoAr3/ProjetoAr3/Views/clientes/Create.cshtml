@@ -1,0 +1,84 @@
+﻿@model ProjetoAr3.Models.cliente
+
+@{
+    ViewBag.Title = "Create";
+}
+<head>
+    <script type="text/javascript">
+        function mascara(i) {
+
+            var v = i.value;
+
+            if (isNaN(v[v.length - 1])) { // impede entrar outro caractere que não seja número
+                i.value = v.substring(0, v.length - 1);
+                return;
+            }
+
+            i.setAttribute("maxlength", "14");
+            if (v.length == 3 || v.length == 7) i.value += ".";
+            if (v.length == 11) i.value += "-";
+
+        }
+    </script>
+</head>
+
+<h2>Registrar Cliente</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+           Nome:
+            <div class="col-md-10">
+               <input type="text" name="usuario.Nome" />
+            </div>
+        </div>
+
+        <div class="form-group">
+          Senha:
+            <div class="col-md-10">
+    <input type="text" name="usuario.Senha" />          
+            </div>
+        </div>
+
+
+        <div class="form-group">
+           Email:
+            <div class="col-md-10">
+               <input type="text" name="cliente.Email" />
+            </div>
+        </div>
+
+        <div class="form-group">
+           Cpf:
+            <div class="col-md-10">
+                <input type="text" name="cliente.Cpf" />
+
+            </div>
+        </div>
+        <input oninput="mascara(this)" type="text">
+
+
+
+        <div class="form-group">
+            <div class="col-md col-md-10">
+                <input type="submit" value="Registrar" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+
+}
+
+<div>
+    @Html.ActionLink("Voltar para os cadastros", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
