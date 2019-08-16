@@ -1,0 +1,60 @@
+﻿@model ProjetoAr3.Models.categoriaDoProduto
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Deletar Categoria</h2>
+
+<head>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+
+<div>
+
+
+    <table>
+
+        <tr>
+            <th>Nome:</th>
+            <td>@Html.DisplayFor(model => model.Nome)</td>
+
+        </tr>
+         <tr>
+            <th>Tipo:</th>
+            <td>@Html.DisplayFor(model => model.Tipo)</td>
+
+        </tr>
+
+
+    </table>
+    <hr />
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Deletar" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar para a lista de cadastros", "Index")
+        </div>
+    }
+</div>
+
+
+

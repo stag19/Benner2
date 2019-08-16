@@ -1,0 +1,186 @@
+﻿<!DOCTYPE html>
+<div class="logo2">
+    <a href="http://localhost:51497/"><img src="~/images/logo2.png" width="350" height="200" alt=""></a>
+</div>
+
+
+<head>
+    -----------------------
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Material Design Bootstrap</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <!-- Bootstrap core CSS -->
+    <link href="~/BTR/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="~/BTR/css/mdb.min.css" rel="stylesheet">
+    <!-- Your custom styles (optional) -->
+    <link href="~/BTR/css/style.css" rel="stylesheet">
+    -----=----------------------------------------------
+    <!-- Mobile Specific Meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="img/fav.png">
+    <!-- Author Meta -->
+    <meta name="author" content="CodePixar">
+    <!-- Meta Description -->
+    <meta name="description" content="">
+    <!-- Meta Keyword -->
+    <meta name="keywords" content="">
+    <!-- meta character set -->
+    <meta charset="UTF-8">
+    <!-- Site Title -->
+    <title>Karma Shop</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <!--
+            CSS
+            ============================================= -->
+    @Styles.Render("~/Template/css/linearicons.css")
+    @Styles.Render("~/Template/css/owl.carousel.css")
+    @Styles.Render("~/Template/css/font-awesome.min.css")
+    @Styles.Render("~/Template/css/themify-icons.css")
+    @Styles.Render("~/Template/css/nice-select.css")
+    @Styles.Render("~/Template/css/bootstrap.css")
+    @Styles.Render("~/Template/css/main.css")
+    <style>
+        /* Style The Dropdown Button */
+        .dropbtn {
+            background-color: #828bb3;
+            color: white;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+        /* The container <div> - needed to position the dropdown content */
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        /* Dropdown Content (Hidden by Default) */
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+            /* Links inside the dropdown */
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+                /* Change color of dropdown links on hover */
+                .dropdown-content a:hover {
+                    background-color: #f1f1f1
+                }
+
+        /* Show the dropdown menu on hover */
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        /* Change the background color of the dropdown button when the dropdown content is shown */
+        .dropdown:hover .dropbtn {
+            background-color: #17a2b8;
+        }
+    </style>
+    --0-------------------
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Material Design Bootstrap</title>
+  
+    <!-- Your custom styles (optional) -->
+
+    -----------------------
+</head>
+<body id="category">
+
+
+    <div class="col-xl-9 col-lg-8 col-md-7">
+        <!-- Start Filter Bar -->
+        <div class="LojaDesign">
+            <div class="dropdown">
+                <button class="dropbtn">Ar condicionados</button>
+                <div class="dropdown-content">
+
+                    @foreach (var item in ViewBag.categoria)
+                    {
+                        if (item.Tipo == "Ar condicionado")
+                        {
+                            <a href="#"> @item.Nome </a>
+                        }
+
+                    }
+                </div>
+            </div>
+            <div class="dropdown">
+                <div class="dropdown">
+                    <button class="dropbtn">Ferramentas</button>
+                    <div class="dropdown-content">
+
+                        @foreach (var item in ViewBag.categoria)
+                        {
+                            if (item.Tipo == "Ferramentas")
+                            {
+                                <a href="#"> @item.Nome </a>
+                            }
+
+                        }
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="dropdown">
+                <div class="dropdown">
+                    <button class="dropbtn">Peças</button>
+                    <div class="dropdown-content">
+
+                        @foreach (var item in ViewBag.categoria)
+                        {
+                            if (item.Tipo == "Peças")
+                            {
+                                <a href="#"> @item.Nome </a>
+                            }
+
+                        }
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="dropdown">
+                <div class="dropdown">
+                    <button class="dropbtn">Materiais</button>
+                    <div class="dropdown-content">
+
+                        @foreach (var item in ViewBag.categoria)
+                        {
+                            if (item.Tipo == "Materiais")
+                            {
+                                <a href="#"> @item.Nome </a>
+                            }
+
+                        }
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+       
+    </div>
+
+</body>

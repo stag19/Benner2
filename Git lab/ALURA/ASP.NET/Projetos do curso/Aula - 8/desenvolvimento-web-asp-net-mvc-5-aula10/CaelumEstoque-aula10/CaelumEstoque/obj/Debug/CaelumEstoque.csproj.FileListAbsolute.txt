@@ -94,3 +94,31 @@ C:\Users\caelum\Documents\Visual Studio 2013\Projects\CaelumEstoque\CaelumEstoqu
 C:\Users\caelum\Documents\Visual Studio 2013\Projects\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.csprojResolveAssemblyReference.cache
 C:\Users\caelum\Documents\Visual Studio 2013\Projects\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.dll
 C:\Users\caelum\Documents\Visual Studio 2013\Projects\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.pdb
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\CaelumEstoque.dll.config
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\CaelumEstoque.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\CaelumEstoque.pdb
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\Newtonsoft.Json.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Net.Http.Formatting.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Helpers.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Http.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Http.WebHost.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Mvc.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Razor.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Webpages.Deployment.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Webpages.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Webpages.Razor.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\Newtonsoft.Json.xml
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Net.Http.Formatting.xml
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Http.xml
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Http.WebHost.xml
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Razor.xml
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Webpages.xml
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Webpages.Deployment.xml
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Webpages.Razor.xml
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Helpers.xml
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\bin\System.Web.Mvc.xml
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\obj\Debug\CaelumEstoque.csprojAssemblyReference.cache
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\obj\Debug\CaelumEstoque.csproj.CoreCompileInputs.cache
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\obj\Debug\CaelumEstoque.csproj.CopyComplete
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\obj\Debug\CaelumEstoque.dll
+C:\Benner\Benner\Git lab\ALURA\ASP.NET\Projetos do curso\Aula - 8\desenvolvimento-web-asp-net-mvc-5-aula10\CaelumEstoque-aula10\CaelumEstoque\obj\Debug\CaelumEstoque.pdb

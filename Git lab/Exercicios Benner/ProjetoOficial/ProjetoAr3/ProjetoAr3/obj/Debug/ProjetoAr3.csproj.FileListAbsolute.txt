@@ -1,0 +1,440 @@
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.dll.config
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.pdb
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.exe
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.exe.config
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.rsp
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.exe
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.exe.config
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.rsp
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.AppContext.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Console.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Compression.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Claims.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.ValueTuple.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.exe
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.exe.config
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.rsp
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\VBCSCompiler.exe
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\Antlr3.Runtime.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\EntityFramework.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\EntityFramework.SqlServer.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\Newtonsoft.Json.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.Helpers.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.Mvc.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.Optimization.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.Razor.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Razor.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\WebGrease.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\EntityFramework.xml
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\EntityFramework.SqlServer.xml
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.Helpers.xml
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.Mvc.xml
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.Optimization.xml
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.Razor.xml
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.xml
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Razor.xml
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\Newtonsoft.Json.xml
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\Antlr3.Runtime.pdb
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.CoreCompileInputs.cache
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.CopyComplete
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.dll
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.pdb
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.InitialCreate.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.GenerateResource.cache
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ClienteEmail.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimi.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimitee.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimitees.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumando.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.text.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumando1.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.cadastroFuncionario.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.bug2.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.categoriaDoProduto.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.categoriaDoproduto2.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CadastrosProdutos.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.testCreat.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumandobug.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ProblenNoSave.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ServicosCadastro.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.login.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.registrar.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csprojAssemblyReference.cache
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.lointest2.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.UsuarioTeste.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.test5.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.test45.resources
+C:\Users\stag019\Desktop\teste\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.teste46.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.dll.config
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.pdb
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.exe
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.exe.config
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.rsp
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.exe
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.exe.config
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.rsp
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.AppContext.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Collections.Immutable.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Console.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Compression.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.FileSystem.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Pipes.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.AccessControl.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Claims.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.ValueTuple.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XPath.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.exe
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.exe.config
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.rsp
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\VBCSCompiler.exe
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\roslyn\VBCSCompiler.exe.config
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\Antlr3.Runtime.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\EntityFramework.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\EntityFramework.SqlServer.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\Microsoft.Web.Infrastructure.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\Newtonsoft.Json.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.Helpers.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.Mvc.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.Optimization.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.Razor.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Deployment.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Razor.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\WebGrease.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\EntityFramework.xml
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\EntityFramework.SqlServer.xml
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.Helpers.xml
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.Mvc.xml
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.Optimization.xml
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.Razor.xml
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.xml
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Deployment.xml
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Razor.xml
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\Newtonsoft.Json.xml
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\Antlr3.Runtime.pdb
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csprojAssemblyReference.cache
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.InitialCreate.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ClienteEmail.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimi.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimitee.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimitees.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumando.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.text.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumando1.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.cadastroFuncionario.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.bug2.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.categoriaDoProduto.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.categoriaDoproduto2.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CadastrosProdutos.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.testCreat.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumandobug.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ProblenNoSave.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ServicosCadastro.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.login.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.registrar.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.lointest2.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.UsuarioTeste.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.test5.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.test45.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.teste46.resources
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.GenerateResource.cache
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.CoreCompileInputs.cache
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.CopyComplete
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.dll
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.pdb
+C:\Benner\Benner\Git lab\Projeto Ar Condicionado\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.preçoproduto.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.dll.config
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.pdb
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.exe
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.exe.config
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.rsp
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.exe
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.exe.config
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.rsp
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.AppContext.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Console.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Compression.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Claims.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.ValueTuple.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.exe
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.exe.config
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.rsp
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\VBCSCompiler.exe
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\Antlr3.Runtime.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\EntityFramework.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\EntityFramework.SqlServer.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\Newtonsoft.Json.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.Helpers.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.Mvc.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.Optimization.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.Razor.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Razor.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\WebGrease.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\EntityFramework.xml
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\EntityFramework.SqlServer.xml
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.Helpers.xml
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.Mvc.xml
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.Optimization.xml
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.Razor.xml
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.xml
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Razor.xml
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\Newtonsoft.Json.xml
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\Antlr3.Runtime.pdb
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.InitialCreate.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ClienteEmail.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimi.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimitee.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimitees.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumando.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.text.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumando1.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.cadastroFuncionario.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.bug2.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.categoriaDoProduto.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.categoriaDoproduto2.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CadastrosProdutos.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.testCreat.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumandobug.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ProblenNoSave.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ServicosCadastro.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.login.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.registrar.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.lointest2.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.UsuarioTeste.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.test5.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.test45.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.teste46.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.preçoproduto.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.GenerateResource.cache
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.CoreCompileInputs.cache
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.CopyComplete
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.dll
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.pdb
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.loginarrumando.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.produtoteste2.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.login1.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.usuariosCadastro.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.testecontroller.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.testandoCadastroLogin.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.cadastrologin2.resources
+C:\Users\stag019\Desktop\html\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csprojAssemblyReference.cache
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.dll.config
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\ProjetoAr3.pdb
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.exe
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.exe.config
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\csc.rsp
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.exe
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.exe.config
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\csi.rsp
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.AppContext.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Console.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Compression.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Claims.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.ValueTuple.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.exe
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.exe.config
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\vbc.rsp
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\VBCSCompiler.exe
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\Antlr3.Runtime.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\EntityFramework.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\EntityFramework.SqlServer.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\Newtonsoft.Json.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.Helpers.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.Mvc.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.Optimization.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.Razor.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Razor.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\WebGrease.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\EntityFramework.xml
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\EntityFramework.SqlServer.xml
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.Helpers.xml
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.Mvc.xml
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.Optimization.xml
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.Razor.xml
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.xml
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\System.Web.WebPages.Razor.xml
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\Newtonsoft.Json.xml
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\Antlr3.Runtime.pdb
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csprojAssemblyReference.cache
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.InitialCreate.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ClienteEmail.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimi.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimitee.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CaracterLimitees.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumando.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.text.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumando1.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.cadastroFuncionario.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.bug2.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.categoriaDoProduto.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.categoriaDoproduto2.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.CadastrosProdutos.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.testCreat.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.arrumandobug.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ProblenNoSave.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ServicosCadastro.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.login.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.registrar.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.lointest2.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.UsuarioTeste.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.test5.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.test45.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.teste46.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.preçoproduto.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.loginarrumando.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.produtoteste2.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.login1.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.usuariosCadastro.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.testecontroller.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.testandoCadastroLogin.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.cadastrologin2.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.GenerateResource.cache
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.CoreCompileInputs.cache
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.csproj.CopyComplete
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.dll
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.pdb
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.aaa.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.ImagemProdutos.resources
+C:\Users\stag019\Desktop\Backp\ProjetoAr3\ProjetoAr3\obj\Debug\ProjetoAr3.Migrations.TipoCategoria.resources

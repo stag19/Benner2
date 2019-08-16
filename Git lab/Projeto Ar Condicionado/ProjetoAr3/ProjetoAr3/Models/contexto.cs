@@ -10,7 +10,7 @@ namespace ProjetoAr3.Models
     {
         public DbSet<cliente> Clientes { get; set; }
         public DbSet<categoriaDoProduto> CategoriaDoProdutos { get; set; }
-        public DbSet<produtos> Produtos { get; set; }
+        public DbSet<Produto> Produtos { get; set; }
         public DbSet<serviços> Serviços { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
 

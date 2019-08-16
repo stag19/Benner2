@@ -132,8 +132,9 @@
     <Compile Include="Controllers\funcionariosController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
-    <Compile Include="Controllers\produtosController.cs" />
+    <Compile Include="Controllers\ProdutoController.cs" />
     <Compile Include="Controllers\serviçosController.cs" />
+    <Compile Include="DAO\ProdutosDAO.cs" />
     <Compile Include="DAO\UsuariosDAO.cs" />
     <Compile Include="Filtros\AutorizacaoFilterAttribute.cs" />
     <Compile Include="Global.asax.cs">
@@ -235,12 +236,24 @@
     <Compile Include="Migrations\201907312013219_teste46.Designer.cs">
       <DependentUpon>201907312013219_teste46.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201908021703173_preçoproduto.cs" />
+    <Compile Include="Migrations\201908021703173_preçoproduto.Designer.cs">
+      <DependentUpon>201908021703173_preçoproduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908021743377_produtoEstoque1.cs" />
+    <Compile Include="Migrations\201908021743377_produtoEstoque1.Designer.cs">
+      <DependentUpon>201908021743377_produtoEstoque1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908051646509_login1.cs" />
+    <Compile Include="Migrations\201908051646509_login1.Designer.cs">
+      <DependentUpon>201908051646509_login1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\categoriaDoProduto.cs" />
     <Compile Include="Models\cliente.cs" />
     <Compile Include="Models\contexto.cs" />
     <Compile Include="Models\funcionario.cs" />
-    <Compile Include="Models\produtos.cs" />
+    <Compile Include="Models\produto.cs" />
     <Compile Include="Models\serviços.cs" />
     <Compile Include="Models\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -476,11 +489,6 @@
     <Content Include="Views\categoriaDoProdutos\Details.cshtml" />
     <Content Include="Views\categoriaDoProdutos\Edit.cshtml" />
     <Content Include="Views\categoriaDoProdutos\Index.cshtml" />
-    <Content Include="Views\produtos\Create.cshtml" />
-    <Content Include="Views\produtos\Delete.cshtml" />
-    <Content Include="Views\produtos\Details.cshtml" />
-    <Content Include="Views\produtos\Edit.cshtml" />
-    <Content Include="Views\produtos\Index.cshtml" />
     <Content Include="Views\serviços\Create.cshtml" />
     <Content Include="Views\serviços\Delete.cshtml" />
     <Content Include="Views\serviços\Details.cshtml" />
@@ -494,6 +502,9 @@
     <Content Include="vendor\bootstrap\css\bootstrap.min.css.map" />
     <Content Include="Views\Contador\Index.cshtml" />
     <Content Include="Views\Login\Index.cshtml" />
+    <Content Include="Views\Produto\Index.cshtml" />
+    <Content Include="Views\Produto\Form.cshtml" />
+    <Content Include="Views\Produto\Adiciona.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -584,6 +595,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201907312013219_teste46.resx">
       <DependentUpon>201907312013219_teste46.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908021703173_preçoproduto.resx">
+      <DependentUpon>201908021703173_preçoproduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908021743377_produtoEstoque1.resx">
+      <DependentUpon>201908021743377_produtoEstoque1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908051646509_login1.resx">
+      <DependentUpon>201908051646509_login1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
