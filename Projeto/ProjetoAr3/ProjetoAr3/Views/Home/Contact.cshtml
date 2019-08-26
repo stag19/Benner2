@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<h2>Loja Ponto Fácil</h2>
+
+
+
+<html>
+<body>
+
+    <h1>Loja fisica</h1>
+
+    <div id="googleMap" style="width:100%;height:400px"></div>
+
+    <script>
+        function myMap() {
+            var mapProp = {
+                center: new google.maps.LatLng(-26.9069567, -49.1304036, 3),
+                zoom: 20,
+            };
+            var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+        }
+    </script>
+
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAa2l4PkzhgphLXlObycknXjCCYHAot_nw&callback=myMap"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+<h3>Contatos</h3>
+<address>
+    Rua General Osório 3817,<br />
+    Loja, Cep 89032-250<br />
+    <abbr title="Phone">Telefone:</abbr>
+    (47) 98461-4482
+</address>
+
+<address>
+    <strong>Suporte:</strong>   <a href="mailto:Support@example.com">PontoFacil.Suporte@gmail.com</a><br />
+    <strong>Email para contato:</strong> <a href="mailto:Marketing@example.com">PontoFácil23.com</a>
+</address>

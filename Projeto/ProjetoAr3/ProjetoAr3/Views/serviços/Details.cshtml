@@ -1,0 +1,49 @@
+﻿@model ProjetoAr3.Models.serviços
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<head>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+
+<h2>Detalhes do Serviço</h2>
+
+<div>
+  
+    <hr />
+    <table >
+        <tr>
+            <th>Serviço:</th>
+            <td>@Html.DisplayFor(model => model.Serviço)</td>
+
+        </tr>
+
+        <tr>
+            <th>Preço:</th>
+            <td> @Html.DisplayFor(model => model.Preço)</td>
+   
+    </table>
+</div>
+
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Voltar para a lista de cadastros", "Index")
+</p>

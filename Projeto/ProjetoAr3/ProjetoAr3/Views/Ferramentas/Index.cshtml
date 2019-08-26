@@ -1,0 +1,311 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Ferramentas</h2>
+<head>
+    <style>
+
+        #Links {
+            border-bottom: 6px solid red;
+            background-color: lightgrey;
+        }
+    </style>
+
+</head>
+
+<body>
+
+
+    <div class="dropdown-content">
+
+        @foreach (var item in ViewBag.categoria)
+        {
+            if (item.Tipo == "Ferramentas")
+            {
+
+                <a id="Links" href="#"> @item.Nome,</a>
+
+            }
+
+        }
+
+    </div>
+    <br />
+    <br />
+
+    @foreach (var item in ViewBag.produtosl)
+    {
+        if (item.Categoria.Nome == "Bomba de Vácuo")
+        {
+            <div class="col-lg-4 col-md-6">
+                <div class="single-product">
+                    @if (item.Imagem != null)
+                    {
+                        var ImagemProduto = "";
+                        var base64 = Convert.ToBase64String(item.Imagem);
+                        ImagemProduto = string.Format("data:image/png;base64,{0}", base64);
+
+                        <img src="@ImagemProduto" style="width:263px; height:280px;  ">
+                    }
+                    <div class="product-details">
+                        <h6>
+                            <a href="#"> @item.Nome </a>
+                        </h6>
+
+                        <div class="price">
+                            <h6>$@item.Preço</h6>
+
+                        </div>
+
+                        <div class="prd-bottom">
+                            <a href="" class="social-info">
+                                <span class="ti-bag"></span>
+                                <p class="hover-text">Adicionar ao carrinho</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Favoritos</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Comprar</p>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+  
+    @foreach (var item in ViewBag.produtosl)
+    {
+        if (item.Categoria.Nome == "Flangeador")
+        {
+            <div class="col-lg-4 col-md-6">
+                <div class="single-product">
+                    @if (item.Imagem != null)
+                    {
+                        var ImagemProduto = "";
+                        var base64 = Convert.ToBase64String(item.Imagem);
+                        ImagemProduto = string.Format("data:image/png;base64,{0}", base64);
+
+                        <img src="@ImagemProduto" style="width:263px; height:280px;  ">
+                    }
+                    <div class="product-details">
+                        <h6>
+                            <a href="#"> @item.Nome </a>
+                        </h6>
+
+                        <div class="price">
+                            <h6>$@item.Preço</h6>
+
+                        </div>
+
+                        <div class="prd-bottom">
+                            <a href="" class="social-info">
+                                <span class="ti-bag"></span>
+                                <p class="hover-text">Adicionar ao carrinho</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Favoritos</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Comprar</p>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+
+    @foreach (var item in ViewBag.produtosl)
+    {
+        if (item.Categoria.Nome == "Maçaricos")
+        {
+            <div class="col-lg-4 col-md-6">
+                <div class="single-product">
+                    @if (item.Imagem != null)
+                    {
+                        var ImagemProduto = "";
+                        var base64 = Convert.ToBase64String(item.Imagem);
+                        ImagemProduto = string.Format("data:image/png;base64,{0}", base64);
+
+                        <img src="@ImagemProduto" style="width:263px; height:280px;  ">
+                    }
+                    <div class="product-details">
+                        <h6>
+                            <a href="#"> @item.Nome </a>
+                        </h6>
+
+                        <div class="price">
+                            <h6>$@item.Preço</h6>
+
+                        </div>
+
+                        <div class="prd-bottom">
+                            <a href="" class="social-info">
+                                <span class="ti-bag"></span>
+                                <p class="hover-text">Adicionar ao carrinho</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Favoritos</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Comprar</p>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+
+
+    @foreach (var item in ViewBag.produtosl)
+    {
+        if (item.Categoria.Nome == "Cortador de tubos")
+        {
+            <div class="col-lg-4 col-md-6">
+                <div class="single-product">
+                    @if (item.Imagem != null)
+                    {
+                        var ImagemProduto = "";
+                        var base64 = Convert.ToBase64String(item.Imagem);
+                        ImagemProduto = string.Format("data:image/png;base64,{0}", base64);
+
+                        <img src="@ImagemProduto" style="width:263px; height:280px;  ">
+                    }
+                    <div class="product-details">
+                        <h6>
+                            <a href="#"> @item.Nome </a>
+                        </h6>
+
+                        <div class="price">
+                            <h6>$@item.Preço</h6>
+
+                        </div>
+
+                        <div class="prd-bottom">
+                            <a href="" class="social-info">
+                                <span class="ti-bag"></span>
+                                <p class="hover-text">Adicionar ao carrinho</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Favoritos</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Comprar</p>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+
+
+    @foreach (var item in ViewBag.produtosl)
+    {
+        if (item.Categoria.Nome == "Chave De Catraca")
+        {
+            <div class="col-lg-4 col-md-6">
+                <div class="single-product">
+                    @if (item.Imagem != null)
+                    {
+                        var ImagemProduto = "";
+                        var base64 = Convert.ToBase64String(item.Imagem);
+                        ImagemProduto = string.Format("data:image/png;base64,{0}", base64);
+
+                        <img src="@ImagemProduto" style="width:263px; height:280px;  ">
+                    }
+                    <div class="product-details">
+                        <h6>
+                            <a href="#"> @item.Nome </a>
+                        </h6>
+
+                        <div class="price">
+                            <h6>$@item.Preço</h6>
+
+                        </div>
+
+                        <div class="prd-bottom">
+                            <a href="" class="social-info">
+                                <span class="ti-bag"></span>
+                                <p class="hover-text">Adicionar ao carrinho</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Favoritos</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Comprar</p>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+
+
+    @foreach (var item in ViewBag.produtosl)
+    {
+        if (item.Categoria.Nome == "Gerais")
+        {
+            <div class="col-lg-4 col-md-6">
+                <div class="single-product">
+                    @if (item.Imagem != null)
+                    {
+                        var ImagemProduto = "";
+                        var base64 = Convert.ToBase64String(item.Imagem);
+                        ImagemProduto = string.Format("data:image/png;base64,{0}", base64);
+
+                        <img src="@ImagemProduto" style="width:263px; height:280px;  ">
+                    }
+                    <div class="product-details">
+                        <h6>
+                            <a href="#"> @item.Nome </a>
+                        </h6>
+
+                        <div class="price">
+                            <h6>$@item.Preço</h6>
+
+                        </div>
+
+                        <div class="prd-bottom">
+                            <a href="" class="social-info">
+                                <span class="ti-bag"></span>
+                                <p class="hover-text">Adicionar ao carrinho</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Favoritos</p>
+                            </a>
+                            <a href="" class="social-info">
+                                <span class="lnr lnr-heart"></span>
+                                <p class="hover-text">Comprar</p>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+
+</body>

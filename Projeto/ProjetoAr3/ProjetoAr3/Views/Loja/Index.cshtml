@@ -1,0 +1,248 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+<head>
+    <!-- Mobile Specific Meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="img/fav.png">
+    <!-- Author Meta -->
+    <meta name="author" content="CodePixar">
+    <!-- Meta Description -->
+    <meta name="description" content="">
+    <!-- Meta Keyword -->
+    <meta name="keywords" content="">
+    <!-- meta character set -->
+    <meta charset="UTF-8">
+    <!-- Site Title -->
+    <title>Karma Shop</title>
+    <!--
+            CSS
+            ============================================= -->
+    @Styles.Render("~/Template/css/linearicons.css")
+    @Styles.Render("~/Template/css/owl.carousel.css")
+    @Styles.Render("~/Template/css/font-awesome.min.css")
+    @Styles.Render("~/Template/css/themify-icons.css")
+    @Styles.Render("~/Template/css/nice-select.css")
+    @Styles.Render("~/Template/css/bootstrap.css")
+    @Styles.Render("~/Template/css/main.css")
+    <style>
+        /* Style The Dropdown Button */
+        .dropbtn {
+            background-color: #828bb3;
+            color: white;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+        /* The container <div> - needed to position the dropdown content */
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        /* Dropdown Content (Hidden by Default) */
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+            /* Links inside the dropdown */
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+                /* Change color of dropdown links on hover */
+                .dropdown-content a:hover {
+                    background-color: #f1f1f1
+                }
+
+        /* Show the dropdown menu on hover */
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        /* Change the background color of the dropdown button when the dropdown content is shown */
+        .dropdown:hover .dropbtn {
+            background-color: #17a2b8;
+        }
+
+        
+    </style>
+</head>
+<body id="category">
+    <div class="logo2">
+        <a href="http://localhost:51497/"><img src="~/images/logo2.png" width="250" height="100" alt=""></a>
+    </div>
+    <br />
+    <div class="row">
+
+        <div class="col-xl-9 col-lg-8 col-md-7">
+            <!-- Start Filter Bar -->
+            <div class="LojaDesign">
+                <div class="dropdown">
+                    <a href="http://localhost:51497/Arcondicionados/index">
+                        <button class="dropbtn">Ar condicionados</button>
+                    </a>
+                    <div class="dropdown-content">
+
+                        @foreach (var item in ViewBag.categoria)
+                        {
+                            if (item.Tipo == "Ar condicionado")
+                            {
+                                <a href="#"> @item.Nome </a>
+                            }
+
+                        }
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <div class="dropdown">
+                        <a href="http://localhost:51497/Ferramentas/index">
+                            <button class="dropbtn">Ferramentas</button>
+                            <div class="dropdown-content">
+
+                                @foreach (var item in ViewBag.categoria)
+                                {
+                                    if (item.Tipo == "Ferramentas")
+                                    {
+                                        <a href="#"> @item.Nome </a>
+                                    }
+
+                                }
+                            </div>
+                    </div>
+
+                </div>
+
+
+                <div class="dropdown">
+                    <div class="dropdown">
+                        <a href="http://localhost:51497/Peças/index">
+                            <button class="dropbtn">Peças</button>
+                            <div class="dropdown-content">
+
+                                @foreach (var item in ViewBag.categoria)
+                                {
+                                    if (item.Tipo == "Peças")
+                                    {
+                                        <a href="#"> @item.Nome </a>
+                                    }
+
+                                }
+                            </div>
+                    </div>
+
+                </div>
+
+                <div class="dropdown">
+                    <div class="dropdown">
+                        <a href="http://localhost:51497/Materiais/index">
+                            <button class="dropbtn">Materiais</button>
+                            <div class="dropdown-content">
+
+                                @foreach (var item in ViewBag.categoria)
+                                {
+                                    if (item.Tipo == "Materiais")
+                                    {
+                                        <a href="#"> @item.Nome </a>
+                                    }
+
+                                }
+                            </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <section class="lattest-product-area pb-40 category-list">
+
+
+
+
+        @*MOSTRANDO TODOS OS PRODUTOS*@
+
+        @*@foreach (var item in ViewBag.produtosl)
+        {
+
+            {
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-product">
+                        @if (item.Imagem != null)
+                        {
+                            var ImagemProduto = "";
+                            var base64 = Convert.ToBase64String(item.Imagem);
+                            ImagemProduto = string.Format("data:image/png;base64,{0}", base64);
+
+                            <img src="@ImagemProduto" style="width:263px; height:280px;  ">
+                        }
+                        <div class="product-details">
+                            <h6>
+                                <a href="#"> @item.Nome </a>
+                            </h6>
+
+                            <div class="price">
+                                <h6>$@item.Preço</h6>
+
+                            </div>
+
+                            <div class="prd-bottom">
+                                @*<a href="~/Carrinho/AdicionarCarrinho/@idProduto" class="social-info">*@
+                                    @*<span class="ti-bag"></span>
+                                    <p class="hover-text">Adicionar ao carrinho</p>
+                                    
+                                </a>
+                                <a href="" class="social-info">
+                                    <span class="lnr lnr-heart"></span>
+                                    <p class="hover-text">Favoritos</p>
+                                </a>
+                                <a href="" class="social-info">
+                                    <span class="lnr lnr-heart"></span>
+                                    <p class="hover-text">Comprar</p>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }*@
+
+
+    </section>
+
+
+    @Scripts.Render("~/Template/js/vendor/jquery-2.2.4.min.js")
+    @Scripts.Render("~/Template/js/main.js")
+
+    @Scripts.Render("~/Template/js/jquery.ajaxchimp.min.js")
+    @Scripts.Render("~/Template/js/jquery.nice-select.min.js")
+    @Scripts.Render("~/Template/js/jquery.sticky.js")
+    @Scripts.Render("~/Template/js/nouislider.min.js")
+    @Scripts.Render("~/Template/js/jquery.magnific-popup.min.js")
+    @Scripts.Render("~/Template/js/owl.carousel.min.js")
+    @Scripts.Render("~/Template/js/vendor/bootstrap.min.js")
+
+</body>
+
+</html>

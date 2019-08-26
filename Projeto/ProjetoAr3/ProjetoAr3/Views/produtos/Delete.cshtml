@@ -1,0 +1,68 @@
+﻿
+@model ProjetoAr3.Models.produtos
+
+@{
+    ViewBag.Title = "Details";
+}
+<head>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+<h2>Deletar Produto</h2>
+
+<div>
+
+
+    <table>
+
+        <tr>
+            <th>Nome:</th>
+            <td>@Html.DisplayFor(model => model.Nome)</td>
+
+        </tr>
+
+        <tr>
+            <th>Quantidade:</th>
+            <td>@Html.DisplayFor(model => model.Quantidade)</td>
+
+        </tr>
+
+         <tr>
+            <th>Preço:</th>
+            <td>@Html.DisplayFor(model => model.Preço)</td>
+
+        </tr>
+
+        <tr>
+            <th>Categoria:</th>
+            <td>@ViewBag.NomeCategoria</td>
+
+        </tr>
+
+    </table>
+    <hr />
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Deletar" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar para a lista de cadastros", "Index")
+        </div>
+    }
+</div>
